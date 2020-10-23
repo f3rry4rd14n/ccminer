@@ -1,2 +1,2 @@
-# ccminer
+# CCMINER
 CCMINER FOR LINUX
