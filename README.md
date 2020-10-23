@@ -1,0 +1,2 @@
+# ccminer
+CCMINER FOR LINUX
